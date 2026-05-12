@@ -63,9 +63,6 @@ streamlit run app.py
 ```
 streamlit-data-cleaner/
 ├── app.py              # Main application — all pages and logic
-├── cleaning.py         # Cleaning helper functions
-├── temp.py             # Utility/temp functions
-├── requirements.txt    # Python dependencies
 └── README.md
 ```
 
