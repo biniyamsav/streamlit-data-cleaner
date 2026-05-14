@@ -279,8 +279,8 @@ def missing_values(data):
             st.session_state.pass_data[current_col] = st.session_state.pass_data[current_col].fillna(st.session_state.pass_data[current_col].mode()[0])
         st.session_state.i += 1
         st.rerun()
-    if st.session_state.i == len(st.session_state.name):
-        return st.session_state.pass_data, True 
+    
+    return st.session_state.pass_data, False
 
 # THIS FUNCTION MODFYS STRINGS OF THE TABLE LIKE CAPITALIZE REMOVE WHITE SPACE       
 def Clean_text_data(data):
@@ -424,6 +424,12 @@ def main():
             del st.session_state['i']
             st.rerun()
     elif st.session_state.page==6:
+        st.session_state.data, next_page3 = missing_values(st.session_state.data)
+        if next_page3:
+            st.session_state.page = 7
+            del st.session_state['i']
+            st.rerun()
+    elif st.session_state.page==7:
         download_page(st.session_state.data)
            
         
