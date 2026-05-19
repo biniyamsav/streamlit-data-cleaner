@@ -28,28 +28,34 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 | 7 | Download Cleaned File |
 
 ### Upload CSV
-<img width="1920" height="1080" alt="upload" src="https://github.com/user-attachments/assets/8c47e261-d0da-465e-a8cf-2a89c4d7d8e0" />
+<img width="1920" height="1080" alt="upload" src="https://github.com/user-attachments/assets/437aa76b-2d75-45d9-9b47-9cdf2191e4f0" />
 
 
 ### Inspect Data
-<img width="1920" height="1080" alt="overview2" src="https://github.com/user-attachments/assets/7ae745e4-03f0-4fac-9305-e541b4360039" />
+<img width="1920" height="1080" alt="overview1" src="https://github.com/user-attachments/assets/1ebc75c5-c651-47f0-a588-ee0c915f7ea3" />
+<img width="1920" height="1080" alt="overview2" src="https://github.com/user-attachments/assets/1132d006-3852-4ae8-be1b-3e79532f0bf2" />
+<img width="1920" height="1080" alt="overview3" src="https://github.com/user-attachments/assets/c517e4ef-3eec-49f3-b7d9-44bbdb701413" />
+<img width="1920" height="1080" alt="overview4" src="https://github.com/user-attachments/assets/7c68acd4-f5e5-4c7d-93eb-3353ca8cf565" />
+
 
 
 ### Rename Columns
 
-![Rename Columns](assets/colum.png)
+<img width="1920" height="1080" alt="colum" src="https://github.com/user-attachments/assets/7c520c2f-af40-4b89-a7c3-338cb482cf70" />
+
 
 ### Fix Data Types
 
-![Fix Data Types](assets/datacleandatatype.png)
+<img width="1920" height="1080" alt="datacleandatatype" src="https://github.com/user-attachments/assets/102aba2c-6445-4c1d-a7e4-2c25848710e5" />
+
 
 ### Handle Missing Values
-
-![Handle Missing Values](assets/missing.png)
+<img width="1920" height="1080" alt="missing" src="https://github.com/user-attachments/assets/fbc53b4c-980e-4e43-bc68-655bf1a0aec4" />
 
 ### Download Cleaned File
 
-![Download Cleaned File](assets/download.png)
+<img width="1920" height="1080" alt="download" src="https://github.com/user-attachments/assets/19cbabb8-4e38-441c-b670-beb4c2d15a11" />
+
 
 ---
 
