@@ -32,10 +32,8 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 
 
 ### Inspect Data
+<img width="1920" height="1080" alt="overview2" src="https://github.com/user-attachments/assets/7ae745e4-03f0-4fac-9305-e541b4360039" />
 
-![Inspect Data 1](assets/overview2.png)
-![Inspect Data 2](assets/overview3.png)
-![Inspect Data 3](assets/overview4.png)
 
 ### Rename Columns
 
