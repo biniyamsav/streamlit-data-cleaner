@@ -28,8 +28,8 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 | 7 | Download Cleaned File |
 
 ### Upload CSV
+<img width="1920" height="1080" alt="upload" src="https://github.com/user-attachments/assets/8c47e261-d0da-465e-a8cf-2a89c4d7d8e0" />
 
-![Upload CSV](assets/overview1.png)
 
 ### Inspect Data
 
