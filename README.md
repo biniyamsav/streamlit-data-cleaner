@@ -1,4 +1,4 @@
-# 🧼 Streamlit Data Cleaner
+# Reusable Data Cleaning Project
 
 A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. Upload your CSV, clean it column by column, and download the result — no Python knowledge required.
 
@@ -26,6 +26,32 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 | 5 | Handle Missing Values |
 | 6 | Clean Text Data |
 | 7 | Download Cleaned File |
+
+### Upload CSV
+
+![Upload CSV](assets/overview1.png)
+
+### Inspect Data
+
+![Inspect Data 1](assets/overview2.png)
+![Inspect Data 2](assets/overview3.png)
+![Inspect Data 3](assets/overview4.png)
+
+### Rename Columns
+
+![Rename Columns](assets/colum.png)
+
+### Fix Data Types
+
+![Fix Data Types](assets/datacleandatatype.png)
+
+### Handle Missing Values
+
+![Handle Missing Values](assets/missing.png)
+
+### Download Cleaned File
+
+![Download Cleaned File](assets/download.png)
 
 ---
 
@@ -60,7 +86,7 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
-```
+```text
 streamlit-data-cleaner/
 ├── app.py              # Main application — all pages and logic
 └── README.md
