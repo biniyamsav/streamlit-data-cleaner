@@ -28,34 +28,25 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 | 7 | Download Cleaned File |
 
 ### Upload CSV
-<img width="1920" height="1080" alt="upload" src="https://github.com/user-attachments/assets/437aa76b-2d75-45d9-9b47-9cdf2191e4f0" />
-
+<img width="1920" height="1080" alt="upload" src="assets/uploadcsv.png" />
 
 ### Inspect Data
-<img width="1920" height="1080" alt="overview1" src="https://github.com/user-attachments/assets/1ebc75c5-c651-47f0-a588-ee0c915f7ea3" />
-<img width="1920" height="1080" alt="overview2" src="https://github.com/user-attachments/assets/1132d006-3852-4ae8-be1b-3e79532f0bf2" />
-<img width="1920" height="1080" alt="overview3" src="https://github.com/user-attachments/assets/c517e4ef-3eec-49f3-b7d9-44bbdb701413" />
-<img width="1920" height="1080" alt="overview4" src="https://github.com/user-attachments/assets/7c68acd4-f5e5-4c7d-93eb-3353ca8cf565" />
-
-
+<img width="1920" height="1080" alt="overview1" src="assets/inspectdata.png" />
+<img width="1920" height="1080" alt="overview2" src="assets/inspectdata2.png" />
+<img width="1920" height="1080" alt="overview3" src="assets/inspectdata3.png" />
+<img width="1920" height="1080" alt="overview4" src="assets/inspectdata4.png" />
 
 ### Rename Columns
-
-<img width="1920" height="1080" alt="colum" src="https://github.com/user-attachments/assets/7c520c2f-af40-4b89-a7c3-338cb482cf70" />
-
+<img width="1920" height="1080" alt="colum" src="assets/renamecolumns.png" />
 
 ### Fix Data Types
-
-<img width="1920" height="1080" alt="datacleandatatype" src="https://github.com/user-attachments/assets/102aba2c-6445-4c1d-a7e4-2c25848710e5" />
-
+<img width="1920" height="1080" alt="datacleandatatype" src="assets/fixdatatype.png" />
 
 ### Handle Missing Values
-<img width="1920" height="1080" alt="missing" src="https://github.com/user-attachments/assets/fbc53b4c-980e-4e43-bc68-655bf1a0aec4" />
+<img width="1920" height="1080" alt="missing" src="assets/handlemissigvalue.png" />
 
 ### Download Cleaned File
-
-<img width="1920" height="1080" alt="download" src="https://github.com/user-attachments/assets/19cbabb8-4e38-441c-b670-beb4c2d15a11" />
-
+<img width="1920" height="1080" alt="download" src="assets/downloadcleanedfile.png" />
 
 ---
 
@@ -72,7 +63,7 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/streamlit-data-cleaner.git
+git clone https://github.com/biniyamsav/streamlit-data-cleaner.git
 cd streamlit-data-cleaner
 
 # Create and activate virtual environment
@@ -93,6 +84,7 @@ streamlit run app.py
 ```text
 streamlit-data-cleaner/
 ├── app.py              # Main application — all pages and logic
+├── assets/              # Screenshots used in this README
 └── README.md
 ```
 
