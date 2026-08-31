@@ -4,7 +4,7 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Upload & Inspect** — view shape, data types, missing values, duplicates, and statistical summary before touching anything
 - **Rename Columns** — rename any column header or keep it as is
@@ -15,7 +15,7 @@ A no-code, step-by-step CSV data cleaning tool built with Streamlit and Pandas. 
 
 ---
 
-## 📸 App Flow
+##  App Flow
 
 | Step | Page |
 |------|------|
@@ -88,7 +88,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 streamlit-data-cleaner/
